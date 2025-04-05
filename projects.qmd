@@ -1,0 +1,48 @@
+---
+title: "Projects"
+format: html
+---
+
+## 🧠 Featured Projects
+
+### 🎵 Spotify Song Popularity Prediction
+**Tools:** R, KNN, Decision Trees  
+**Description:**  
+Built a predictive model using K-Nearest Neighbors and Decision Tree to classify songs based on popularity.  
+Performed data preprocessing, normalization, and model evaluation using cross-validation.  
+**Outcome:** Achieved over 80% accuracy on the test set.  
+[GitHub Repo](https://github.com/your-username/spotify-knn-project)
+
+---
+
+### 📊 Consumer Complaints Classification
+**Tools:** R, Naive Bayes, Text Mining  
+**Description:**  
+Developed a text classification model to categorize consumer complaints into issue types.  
+Utilized data cleaning, tokenization, and TF-IDF to build an effective pipeline.  
+**Outcome:** Enabled automated support ticket routing with 70%+ precision.  
+[GitHub Repo](https://github.com/your-username/complaints-naivebayes)
+
+---
+
+### 🌇 Real Estate Price Analysis in NYC
+**Tools:** Power BI, Python (Pandas, Seaborn)  
+**Description:**  
+Analyzed average price per square foot across NYC neighborhoods for data-driven investment insights.  
+Created interactive dashboards using Power BI to highlight pricing trends by location and year.  
+**Outcome:** Identified undervalued areas for potential development.
+
+---
+
+### 🍺 Microbrewery Marketing Simulation
+**Tools:** Excel, Business Strategy, A/B Testing  
+**Description:**  
+Designed a promotion strategy and pricing model for a fictional draft beer product.  
+Used segmentation, PESTEL/SWOT, and inventory cost analysis to simulate real-world decisions.  
+**Outcome:** Boosted simulated market share in Fenway by over 20%.
+
+---
+
+## 🧪 More Projects Coming Soon!
+
+I constantly work on new data-driven initiatives. Stay tuned for more updates!

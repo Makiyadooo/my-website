@@ -1,0 +1,85 @@
+---
+title: "CV"
+format: html
+---
+
+## 📄 Download CV
+
+👉 [Download CV (PDF)](files/Jml-CV.pdf)
+
+---
+
+## 🧠 Summary
+
+Master’s student in Applied Business Analytics with a strong academic foundation in Commerce and Applied Statistics. Experienced in data analysis, predictive modeling, marketing strategy, and business reporting. Proficient with R, SQL, Excel, and data visualization tools.
+
+---
+
+## 🎓 Education
+
+**University of Toronto** — Honours Bachelor of Science  
+*Commerce & Applied Statistics*  
+📍 Toronto, ON | Sept 2018 – Apr 2023  
+Key courses: Probability & Statistics, Regression Analysis, Marketing, Finance, Management Accounting
+
+---
+
+## 💼 Work Experience
+
+**PwC (Winter Online PTA Program)** — Data Analyst Intern  
+📍 Remote | May 2022 – Jul 2022  
+- Built statistical models using XGBoost to predict borrowing behavior by user segments  
+- Conducted data preprocessing and outlier filtering  
+- Identified high-potential users undervalued by existing models and evaluated business strategies
+
+**Meorient International Exhibition Co. Ltd.** — Data Analyst Intern  
+📍 Hangzhou, China | Sept 2021 – Nov 2021  
+- Monitored advertising performance using Excel, Quip, and R  
+- Created weekly performance reports for internal stakeholders  
+- Recommended optimization proposals based on web analytics and regular reporting  
+- Coordinated with clients to identify new process improvement opportunities
+
+---
+
+## 📚 Academic Projects
+
+**Prediction of the Next Global Economic Recession**  
+- Built regression models using CPI and unemployment rate to detect recession risk  
+- Conducted VIF and residual tests using R for model robustness  
+- Visualized model results to communicate findings
+
+**Marketing Strategy Proposal for Zola Wedding Company**  
+- Developed a comprehensive business proposal based on market research  
+- Conducted differentiation analysis to define service, price, and promotion strategy  
+- Created marketing budget and strategy implementation plan
+
+**Factors Influencing Major Switching**  
+- Designed survey questionnaire and used random sampling  
+- Cleaned and analyzed data using R and Excel  
+- Built linear regression models to identify key influencing factors
+
+---
+
+## 💼 Leadership
+
+**Chinese Undergraduates Association, University of Toronto**  
+*Director, External Department* | Sept 2018 – Apr 2020  
+- Organized and executed large-scale events and marketing campaigns  
+- Improved outreach and influence through effective planning and post-event analysis
+
+---
+
+## 🧰 Technical Skills
+
+- **Programming**: R, SQL, Python (basic)
+- **Tools**: Excel, Quip, VS Code, Git, Quarto
+- **Modeling**: Regression, XGBoost, Survey Design, A/B Testing
+- **Visualization**: Power BI, ggplot2
+- **Soft Skills**: Research, Presentation, Proposal Writing
+
+---
+
+## 🌐 Languages
+
+- English (Fluent)  
+- Mandarin Chinese (Native)

@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Eddie Jiang"
+  navbar:
+    left:
+      - text: About You
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

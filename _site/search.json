@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hi, I’m Eddie Jiang, a graduate student in Applied Business Analytics.\nThis website showcases my academic achievements, technical projects, and career goals.\nExplore the sections above to learn more:\n\nAbout Me: Get to know my background and skills.\nProjects: See my hands-on work with data, analytics, and modeling.\nCV: Download my curriculum vitae for more details.\nContact: Reach out for collaborations or job opportunities."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a graduate student in Applied Business Analytics with a strong background in Commerce and Applied Statistics from the University of Toronto.\nMy passion lies in data-driven decision making, machine learning, and turning raw data into actionable business insights. I enjoy working on projects that combine analytical thinking with creative problem-solving."
+  },
+  {
+    "objectID": "about.html#hi-im-eddie-jiang",
+    "href": "about.html#hi-im-eddie-jiang",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a graduate student in Applied Business Analytics with a strong background in Commerce and Applied Statistics from the University of Toronto.\nMy passion lies in data-driven decision making, machine learning, and turning raw data into actionable business insights. I enjoy working on projects that combine analytical thinking with creative problem-solving."
+  },
+  {
+    "objectID": "about.html#career-objective",
+    "href": "about.html#career-objective",
+    "title": "About Me",
+    "section": "🎯 Career Objective",
+    "text": "🎯 Career Objective\nTo leverage my technical and analytical skills to help organizations make smarter, data-informed decisions, while continuing to grow as a data analyst and future machine learning engineer."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "📚 Education",
+    "text": "📚 Education\n\nM.S. in Applied Business Analytics, Boston University (Expected 2025)\nB.Com in Commerce and Applied Statistics, University of Toronto"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About Me",
+    "section": "🛠️ Technical Skills",
+    "text": "🛠️ Technical Skills\n\nProgramming: Python, R, SQL, HTML/CSS, JavaScript (basic)\nTools & Platforms: Git, GitHub, VS Code, Quarto, Power BI, Tableau\nLibraries: pandas, scikit-learn, ggplot2, Spark (PySpark)\nCloud: AWS (EC2, S3, IAM, VPC), GitHub Pages\nStatistical Skills: Regression, A/B Testing, Experimental Design, Time Series"
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "About Me",
+    "section": "🌍 Languages",
+    "text": "🌍 Languages\n\nEnglish (Fluent)\nMandarin Chinese (Native)"
+  },
+  {
+    "objectID": "about.html#lets-connect",
+    "href": "about.html#lets-connect",
+    "title": "About Me",
+    "section": "✉️ Let’s Connect",
+    "text": "✉️ Let’s Connect\nFeel free to check out my Projects or head to the Contact page to reach out."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: R, KNN, Decision Trees\nDescription:\nBuilt a predictive model using K-Nearest Neighbors and Decision Tree to classify songs based on popularity.\nPerformed data preprocessing, normalization, and model evaluation using cross-validation.\nOutcome: Achieved over 80% accuracy on the test set.\nGitHub Repo\n\n\n\n\nTools: R, Naive Bayes, Text Mining\nDescription:\nDeveloped a text classification model to categorize consumer complaints into issue types.\nUtilized data cleaning, tokenization, and TF-IDF to build an effective pipeline.\nOutcome: Enabled automated support ticket routing with 70%+ precision.\nGitHub Repo\n\n\n\n\nTools: Power BI, Python (Pandas, Seaborn)\nDescription:\nAnalyzed average price per square foot across NYC neighborhoods for data-driven investment insights.\nCreated interactive dashboards using Power BI to highlight pricing trends by location and year.\nOutcome: Identified undervalued areas for potential development.\n\n\n\n\nTools: Excel, Business Strategy, A/B Testing\nDescription:\nDesigned a promotion strategy and pricing model for a fictional draft beer product.\nUsed segmentation, PESTEL/SWOT, and inventory cost analysis to simulate real-world decisions.\nOutcome: Boosted simulated market share in Fenway by over 20%."
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: R, KNN, Decision Trees\nDescription:\nBuilt a predictive model using K-Nearest Neighbors and Decision Tree to classify songs based on popularity.\nPerformed data preprocessing, normalization, and model evaluation using cross-validation.\nOutcome: Achieved over 80% accuracy on the test set.\nGitHub Repo\n\n\n\n\nTools: R, Naive Bayes, Text Mining\nDescription:\nDeveloped a text classification model to categorize consumer complaints into issue types.\nUtilized data cleaning, tokenization, and TF-IDF to build an effective pipeline.\nOutcome: Enabled automated support ticket routing with 70%+ precision.\nGitHub Repo\n\n\n\n\nTools: Power BI, Python (Pandas, Seaborn)\nDescription:\nAnalyzed average price per square foot across NYC neighborhoods for data-driven investment insights.\nCreated interactive dashboards using Power BI to highlight pricing trends by location and year.\nOutcome: Identified undervalued areas for potential development.\n\n\n\n\nTools: Excel, Business Strategy, A/B Testing\nDescription:\nDesigned a promotion strategy and pricing model for a fictional draft beer product.\nUsed segmentation, PESTEL/SWOT, and inventory cost analysis to simulate real-world decisions.\nOutcome: Boosted simulated market share in Fenway by over 20%."
+  },
+  {
+    "objectID": "projects.html#more-projects-coming-soon",
+    "href": "projects.html#more-projects-coming-soon",
+    "title": "Projects",
+    "section": "🧪 More Projects Coming Soon!",
+    "text": "🧪 More Projects Coming Soon!\nI constantly work on new data-driven initiatives. Stay tuned for more updates!"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download a PDF version of my CV using the link below:\n👉 Download CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae-cv",
+    "href": "cv.html#curriculum-vitae-cv",
+    "title": "CV",
+    "section": "",
+    "text": "You can download a PDF version of my CV using the link below:\n👉 Download CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "CV",
+    "section": "🧠 Summary",
+    "text": "🧠 Summary\nI am a Master’s student in Applied Business Analytics with a strong foundation in statistics, business strategy, and machine learning. My academic and professional journey bridges data science with business impact."
+  },
+  {
+    "objectID": "cv.html#key-skills",
+    "href": "cv.html#key-skills",
+    "title": "CV",
+    "section": "🧰 Key Skills",
+    "text": "🧰 Key Skills\n\nData Analysis (Python, R, SQL)\nMachine Learning & Modeling\nA/B Testing & Experimental Design\nBusiness Intelligence (Power BI, Tableau)\nCloud Platforms (AWS EC2, IAM, S3)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nBoston University – M.S. in Applied Business Analytics (2024–2025)\nUniversity of Toronto – B.Com in Commerce and Applied Statistics (2019–2023)"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "💼 Experience",
+    "text": "💼 Experience\nData Analyst Intern – Overseas Marketing Team\nPerformed lifecycle analysis of advertising campaigns using R and Excel.\nResearch Assistant – Statistics Department\nSupported experimental design and regression model optimization."
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "🗣️ Languages",
+    "text": "🗣️ Languages\n\nEnglish (Fluent)\nMandarin Chinese (Native)"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-portfolio",
+    "href": "index.html#welcome-to-my-portfolio",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hi, I’m Eddie Jiang, a graduate student in Applied Business Analytics.\nThis website showcases my academic achievements, technical projects, and career goals.\nExplore the sections above to learn more:\n\nAbout Me: Get to know my background and skills.\nProjects: See my hands-on work with data, analytics, and modeling.\nCV: Download my curriculum vitae for more details.\nContact: Reach out for collaborations or job opportunities."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Welcome",
+    "section": "🧭 Quick Links",
+    "text": "🧭 Quick Links\n\nAbout Me\nMy Projects\nMy CV\nContact\n\n\nThanks for visiting!"
+  }
+]
