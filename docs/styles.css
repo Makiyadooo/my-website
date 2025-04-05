@@ -1,0 +1,52 @@
+/* Typography */
+body {
+    font-family: 'Segoe UI', 'Helvetica Neue', 'Inter', sans-serif;
+    background-color: #ffffff;
+    color: #222;
+    font-size: 17px;
+    line-height: 1.6;
+  }
+  
+  /* Header Styling */
+  h1, h2, h3 {
+    color: #2c6ca6; /* 柔和蓝 */
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* Navigation Bar */
+  .navbar {
+    background-color: #f8f9fa !important;
+    border-bottom: 1px solid #e3e3e3;
+  }
+  
+  /* Link Styling */
+  a {
+    color: #2c6ca6;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #1e4d7a;
+    text-decoration: underline;
+  }
+  
+  /* Section Layout */
+  main {
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem 1rem;
+  }
+  
+  /* Download Links */
+  a[href*=".pdf"] {
+    font-weight: bold;
+    color: #d35400;
+  }
+  
+  /* TOC Sidebar */
+  .sidebar nav {
+    background-color: #f7f7f7;
+    border-left: 1px solid #ddd;
+  }
+  
