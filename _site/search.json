@@ -1,10 +1,87 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Hi, I’m Eddie Jiang, a graduate student in Applied Business Analytics.\nThis website showcases my academic achievements, technical projects, and career goals.\nExplore the sections above to learn more:\n\nAbout Me: Get to know my background and skills.\nProjects: See my hands-on work with data, analytics, and modeling.\nCV: Download my curriculum vitae for more details.\nContact: Reach out for collaborations or job opportunities."
+    "text": "Tools: R, KNN, Decision Trees\nDescription:\nBuilt a predictive model using K-Nearest Neighbors and Decision Tree to classify songs based on popularity.\nPerformed data preprocessing, normalization, and model evaluation using cross-validation.\nOutcome: Achieved over 80% accuracy on the test set.\nGitHub Repo\n\n\n\n\nTools: R, Naive Bayes, Text Mining\nDescription:\nDeveloped a text classification model to categorize consumer complaints into issue types.\nUtilized data cleaning, tokenization, and TF-IDF to build an effective pipeline.\nOutcome: Enabled automated support ticket routing with 70%+ precision.\nGitHub Repo\n\n\n\n\nTools: Power BI, Python (Pandas, Seaborn)\nDescription:\nAnalyzed average price per square foot across NYC neighborhoods for data-driven investment insights.\nCreated interactive dashboards using Power BI to highlight pricing trends by location and year.\nOutcome: Identified undervalued areas for potential development.\n\n\n\n\nTools: Excel, Business Strategy, A/B Testing\nDescription:\nDesigned a promotion strategy and pricing model for a fictional draft beer product.\nUsed segmentation, PESTEL/SWOT, and inventory cost analysis to simulate real-world decisions.\nOutcome: Boosted simulated market share in Fenway by over 20%."
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Tools: R, KNN, Decision Trees\nDescription:\nBuilt a predictive model using K-Nearest Neighbors and Decision Tree to classify songs based on popularity.\nPerformed data preprocessing, normalization, and model evaluation using cross-validation.\nOutcome: Achieved over 80% accuracy on the test set.\nGitHub Repo\n\n\n\n\nTools: R, Naive Bayes, Text Mining\nDescription:\nDeveloped a text classification model to categorize consumer complaints into issue types.\nUtilized data cleaning, tokenization, and TF-IDF to build an effective pipeline.\nOutcome: Enabled automated support ticket routing with 70%+ precision.\nGitHub Repo\n\n\n\n\nTools: Power BI, Python (Pandas, Seaborn)\nDescription:\nAnalyzed average price per square foot across NYC neighborhoods for data-driven investment insights.\nCreated interactive dashboards using Power BI to highlight pricing trends by location and year.\nOutcome: Identified undervalued areas for potential development.\n\n\n\n\nTools: Excel, Business Strategy, A/B Testing\nDescription:\nDesigned a promotion strategy and pricing model for a fictional draft beer product.\nUsed segmentation, PESTEL/SWOT, and inventory cost analysis to simulate real-world decisions.\nOutcome: Boosted simulated market share in Fenway by over 20%."
+  },
+  {
+    "objectID": "projects.html#more-projects-coming-soon",
+    "href": "projects.html#more-projects-coming-soon",
+    "title": "Projects",
+    "section": "🧪 More Projects Coming Soon!",
+    "text": "🧪 More Projects Coming Soon!\nI constantly work on new data-driven initiatives. Stay tuned for more updates!"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "👉 Download CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#download-cv",
+    "href": "cv.html#download-cv",
+    "title": "CV",
+    "section": "",
+    "text": "👉 Download CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "CV",
+    "section": "🧠 Summary",
+    "text": "🧠 Summary\nMaster’s student in Applied Business Analytics with a strong academic foundation in Commerce and Applied Statistics. Experienced in data analysis, predictive modeling, marketing strategy, and business reporting. Proficient with R, SQL, Excel, and data visualization tools."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nUniversity of Toronto — Honours Bachelor of Science\nCommerce & Applied Statistics\n📍 Toronto, ON | Sept 2018 – Apr 2023\nKey courses: Probability & Statistics, Regression Analysis, Marketing, Finance, Management Accounting"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "CV",
+    "section": "💼 Work Experience",
+    "text": "💼 Work Experience\nPwC (Winter Online PTA Program) — Data Analyst Intern\n📍 Remote | May 2022 – Jul 2022\n- Built statistical models using XGBoost to predict borrowing behavior by user segments\n- Conducted data preprocessing and outlier filtering\n- Identified high-potential users undervalued by existing models and evaluated business strategies\nMeorient International Exhibition Co. Ltd. — Data Analyst Intern\n📍 Hangzhou, China | Sept 2021 – Nov 2021\n- Monitored advertising performance using Excel, Quip, and R\n- Created weekly performance reports for internal stakeholders\n- Recommended optimization proposals based on web analytics and regular reporting\n- Coordinated with clients to identify new process improvement opportunities"
+  },
+  {
+    "objectID": "cv.html#academic-projects",
+    "href": "cv.html#academic-projects",
+    "title": "CV",
+    "section": "📚 Academic Projects",
+    "text": "📚 Academic Projects\nPrediction of the Next Global Economic Recession\n- Built regression models using CPI and unemployment rate to detect recession risk\n- Conducted VIF and residual tests using R for model robustness\n- Visualized model results to communicate findings\nMarketing Strategy Proposal for Zola Wedding Company\n- Developed a comprehensive business proposal based on market research\n- Conducted differentiation analysis to define service, price, and promotion strategy\n- Created marketing budget and strategy implementation plan\nFactors Influencing Major Switching\n- Designed survey questionnaire and used random sampling\n- Cleaned and analyzed data using R and Excel\n- Built linear regression models to identify key influencing factors"
+  },
+  {
+    "objectID": "cv.html#leadership",
+    "href": "cv.html#leadership",
+    "title": "CV",
+    "section": "💼 Leadership",
+    "text": "💼 Leadership\nChinese Undergraduates Association, University of Toronto\nDirector, External Department | Sept 2018 – Apr 2020\n- Organized and executed large-scale events and marketing campaigns\n- Improved outreach and influence through effective planning and post-event analysis"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "CV",
+    "section": "🧰 Technical Skills",
+    "text": "🧰 Technical Skills\n\nProgramming: R, SQL, Python (basic)\nTools: Excel, Quip, VS Code, Git, Quarto\nModeling: Regression, XGBoost, Survey Design, A/B Testing\nVisualization: Power BI, ggplot2\nSoft Skills: Research, Presentation, Proposal Writing"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "🌐 Languages",
+    "text": "🌐 Languages\n\nEnglish (Fluent)\n\nMandarin Chinese (Native)"
   },
   {
     "objectID": "about.html",
@@ -56,74 +133,11 @@
     "text": "✉️ Let’s Connect\nFeel free to check out my Projects or head to the Contact page to reach out."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
     "section": "",
-    "text": "Tools: R, KNN, Decision Trees\nDescription:\nBuilt a predictive model using K-Nearest Neighbors and Decision Tree to classify songs based on popularity.\nPerformed data preprocessing, normalization, and model evaluation using cross-validation.\nOutcome: Achieved over 80% accuracy on the test set.\nGitHub Repo\n\n\n\n\nTools: R, Naive Bayes, Text Mining\nDescription:\nDeveloped a text classification model to categorize consumer complaints into issue types.\nUtilized data cleaning, tokenization, and TF-IDF to build an effective pipeline.\nOutcome: Enabled automated support ticket routing with 70%+ precision.\nGitHub Repo\n\n\n\n\nTools: Power BI, Python (Pandas, Seaborn)\nDescription:\nAnalyzed average price per square foot across NYC neighborhoods for data-driven investment insights.\nCreated interactive dashboards using Power BI to highlight pricing trends by location and year.\nOutcome: Identified undervalued areas for potential development.\n\n\n\n\nTools: Excel, Business Strategy, A/B Testing\nDescription:\nDesigned a promotion strategy and pricing model for a fictional draft beer product.\nUsed segmentation, PESTEL/SWOT, and inventory cost analysis to simulate real-world decisions.\nOutcome: Boosted simulated market share in Fenway by over 20%."
-  },
-  {
-    "objectID": "projects.html#featured-projects",
-    "href": "projects.html#featured-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Tools: R, KNN, Decision Trees\nDescription:\nBuilt a predictive model using K-Nearest Neighbors and Decision Tree to classify songs based on popularity.\nPerformed data preprocessing, normalization, and model evaluation using cross-validation.\nOutcome: Achieved over 80% accuracy on the test set.\nGitHub Repo\n\n\n\n\nTools: R, Naive Bayes, Text Mining\nDescription:\nDeveloped a text classification model to categorize consumer complaints into issue types.\nUtilized data cleaning, tokenization, and TF-IDF to build an effective pipeline.\nOutcome: Enabled automated support ticket routing with 70%+ precision.\nGitHub Repo\n\n\n\n\nTools: Power BI, Python (Pandas, Seaborn)\nDescription:\nAnalyzed average price per square foot across NYC neighborhoods for data-driven investment insights.\nCreated interactive dashboards using Power BI to highlight pricing trends by location and year.\nOutcome: Identified undervalued areas for potential development.\n\n\n\n\nTools: Excel, Business Strategy, A/B Testing\nDescription:\nDesigned a promotion strategy and pricing model for a fictional draft beer product.\nUsed segmentation, PESTEL/SWOT, and inventory cost analysis to simulate real-world decisions.\nOutcome: Boosted simulated market share in Fenway by over 20%."
-  },
-  {
-    "objectID": "projects.html#more-projects-coming-soon",
-    "href": "projects.html#more-projects-coming-soon",
-    "title": "Projects",
-    "section": "🧪 More Projects Coming Soon!",
-    "text": "🧪 More Projects Coming Soon!\nI constantly work on new data-driven initiatives. Stay tuned for more updates!"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "You can download a PDF version of my CV using the link below:\n👉 Download CV (PDF)"
-  },
-  {
-    "objectID": "cv.html#curriculum-vitae-cv",
-    "href": "cv.html#curriculum-vitae-cv",
-    "title": "CV",
-    "section": "",
-    "text": "You can download a PDF version of my CV using the link below:\n👉 Download CV (PDF)"
-  },
-  {
-    "objectID": "cv.html#summary",
-    "href": "cv.html#summary",
-    "title": "CV",
-    "section": "🧠 Summary",
-    "text": "🧠 Summary\nI am a Master’s student in Applied Business Analytics with a strong foundation in statistics, business strategy, and machine learning. My academic and professional journey bridges data science with business impact."
-  },
-  {
-    "objectID": "cv.html#key-skills",
-    "href": "cv.html#key-skills",
-    "title": "CV",
-    "section": "🧰 Key Skills",
-    "text": "🧰 Key Skills\n\nData Analysis (Python, R, SQL)\nMachine Learning & Modeling\nA/B Testing & Experimental Design\nBusiness Intelligence (Power BI, Tableau)\nCloud Platforms (AWS EC2, IAM, S3)"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "🎓 Education",
-    "text": "🎓 Education\nBoston University – M.S. in Applied Business Analytics (2024–2025)\nUniversity of Toronto – B.Com in Commerce and Applied Statistics (2019–2023)"
-  },
-  {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "CV",
-    "section": "💼 Experience",
-    "text": "💼 Experience\nData Analyst Intern – Overseas Marketing Team\nPerformed lifecycle analysis of advertising campaigns using R and Excel.\nResearch Assistant – Statistics Department\nSupported experimental design and regression model optimization."
-  },
-  {
-    "objectID": "cv.html#languages",
-    "href": "cv.html#languages",
-    "title": "CV",
-    "section": "🗣️ Languages",
-    "text": "🗣️ Languages\n\nEnglish (Fluent)\nMandarin Chinese (Native)"
+    "text": "Hi, I’m Eddie Jiang, a graduate student in Applied Business Analytics.\nThis website showcases my academic achievements, technical projects, and career goals.\nExplore the sections above to learn more:\n\nAbout Me: Get to know my background and skills.\nProjects: See my hands-on work with data, analytics, and modeling.\nCV: Download my curriculum vitae for more details.\nContact: Reach out for collaborations or job opportunities."
   },
   {
     "objectID": "index.html#welcome-to-my-portfolio",
